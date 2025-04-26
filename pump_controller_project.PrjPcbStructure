@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=EC25.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=EC25.SchDoc|FileName=indicators.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=EC25.SchDoc|FileName=LDO.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=EC25.SchDoc|FileName=RF.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=EC25.SchDoc|FileName=U SIM.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=EC25.SchDoc|FileName=UART .SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=EC25.SchDoc|FileName=VBAT design.SchDoc|SheetNumber=2
