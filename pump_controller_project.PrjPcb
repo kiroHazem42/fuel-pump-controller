@@ -168,6 +168,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GYACVFTN
 
 [Document8]
+DocumentPath=ATWINC3400.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EZZTSGCM
+
+[Document9]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHSPLFGF
 
-[Document9]
+[Document10]
 DocumentPath=pump_controller_project.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=Sheet4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFNCAVDK
 
-[Document11]
+[Document12]
 DocumentPath=..\..\..\..\..\Downloads\EC25.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
